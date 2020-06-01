@@ -38,7 +38,7 @@
 
 #### Step 1
 ```
-git clone git@github.com:Juliiii/become-a-driver-vue.git
+git clone git@github.com:gyz147/driving-vue.git
 ```
 
 #### Step 2

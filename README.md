@@ -53,10 +53,3 @@ npm run dev
 ## 完善建议
 + 使用高阶组件，来减少基本类似的html,css代码，增强复用性
 + 有空可以完善UI和实现更多的功能
-
-## License
-
-MIT
-
-
-  [1]: https://user-images.githubusercontent.com/23744602/30517793-687316f6-9b9c-11e7-9fe0-98d984c485fe.gif
